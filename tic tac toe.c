@@ -1,6 +1,5 @@
-// A basic game of tic tac toe in c
-// by Anuj barve aka ANNOTECH
-
+// A basic game of tic tac toe in c //
+// by Anuj barve aka ANNOTECH //
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
